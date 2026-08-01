@@ -1,0 +1,10 @@
+vkbottle>=4.10.0
+pydantic>=2.0.0
+aiohttp
+flask
+werkzeug
+pyotp
+qrcode
+pillow
+requests
+ngrok
